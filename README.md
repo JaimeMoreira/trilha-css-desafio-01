@@ -6,7 +6,7 @@
 
 ## :brain: Desafio 3: Criando sua primeira Landing Page com HTML e CSS
 
-<p>Nesse desafio do bootcamp, construimos nosssa primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
+<p>Nesse desafio do bootcamp, construimos nossa primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
 as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha, acesse o <i>index.html</i> e veja como ficou!</p>
 
 ![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
